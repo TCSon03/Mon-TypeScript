@@ -9,6 +9,11 @@
       "email": "thanhhoa@gmail.com",
       "password": "$2a$10$NhSZPXSxH/RkOdkN4QSSxORpe0GrxXZ.ltng/mtLvZfQJuahx5E06",
       "id": 2
+    },
+    {
+      "email": "hoctot@gmail.com",
+      "password": "$2a$10$ZgjwuumVpZqClHTjdGuvHu9dDmUdIDEdbjBTfWS2q1Fz029SDL/I.",
+      "id": 3
     }
   ],
   "products": [
